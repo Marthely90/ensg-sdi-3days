@@ -63,8 +63,8 @@ hub-set-hosts:
 cleanup:
 	@echo "[INFO] Bringing down the proxy HUB"
 	docker compose down --remove-orphans
-	@echo "[INFO] Bringing down the SDI stack"
-	docker compose down --remove-orphans
+#	@echo "[INFO] Bringing down the SDI stack"
+#	docker compose down --remove-orphans
 	# Delete all hosted persistent data available in volumes
 	@echo "[INFO] Cleaning up containers & images"
 	docker system prune -a
