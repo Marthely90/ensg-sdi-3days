@@ -1,0 +1,1585 @@
+[2024-05-23T15:59:28.560Z] info: kubernetes.yaml was copied to the config folder
+[2024-05-23T15:59:32.904Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T15:59:32.911Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T15:59:32.933Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T15:59:32.933Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T15:59:33.001Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T15:59:33.003Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T15:59:35.493Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T15:59:35.494Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T15:59:35.500Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T15:59:35.501Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T15:59:35.554Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T15:59:35.560Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T15:59:38.049Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T15:59:38.050Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T15:59:38.071Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T15:59:38.071Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T15:59:42.897Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T15:59:42.899Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T15:59:42.910Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T15:59:42.912Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T15:59:42.916Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T15:59:42.916Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T15:59:45.446Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T15:59:45.450Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T15:59:45.469Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T15:59:45.469Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T15:59:45.490Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T15:59:45.490Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T15:59:48.026Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T15:59:48.027Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T15:59:48.051Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T15:59:48.053Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:07.765Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:00:07.767Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:07.779Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:00:07.781Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:07.797Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:00:07.797Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:07.799Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:00:07.801Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:10.303Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:00:10.304Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:10.313Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:00:10.313Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:12.810Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:00:12.810Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:12.815Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:00:12.816Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:24.395Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:00:24.397Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:24.426Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:00:24.428Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:24.443Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:00:24.443Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:24.444Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:00:24.445Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:26.996Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:00:26.997Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:27.004Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:00:27.004Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:29.500Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:00:29.501Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:29.516Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:00:29.517Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:39.605Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:00:39.606Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:39.650Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:00:39.650Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:39.694Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:00:39.694Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:39.712Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:00:39.712Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:42.201Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:00:42.211Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:42.217Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:00:42.217Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:43.693Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:00:43.693Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:44.722Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:00:44.722Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:47.513Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:00:47.522Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:47.569Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:00:47.570Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:47.577Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:00:47.578Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:00:50.082Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:00:50.083Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:01:05.195Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:01:05.195Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:01:05.199Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:01:05.200Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:01:05.233Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:01:05.234Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:01:05.239Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:01:05.239Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:01:07.710Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:01:07.712Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:01:07.720Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:01:07.721Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:01:09.236Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:01:09.236Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:01:09.243Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:01:09.244Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:07:34.475Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:07:34.475Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:07:34.491Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:07:34.491Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:07:34.498Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:07:34.499Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:07:36.987Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:07:36.989Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:07:36.991Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:07:36.992Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:07:38.503Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:07:38.504Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:07:39.502Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:07:39.503Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:07:39.509Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:07:39.510Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:07:44.752Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:07:44.753Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:07:44.759Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:07:44.759Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:07:44.789Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:07:44.790Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:07:44.797Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:07:44.797Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:07:47.289Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:07:47.289Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:07:47.290Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:07:47.295Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:07:48.795Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:07:48.795Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:07:48.800Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:07:48.800Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:07:51.321Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:07:51.321Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:07:52.344Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:07:52.344Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:07:53.834Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:07:53.835Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:07:53.856Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:07:53.856Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:07:54.850Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:07:54.851Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:07:57.394Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:07:57.398Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:07:58.999Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:07:59.000Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:07:59.910Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:07:59.912Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:08:39.321Z] error: <httpProxy> Error calling https://hub.ensg-sdi.docker/...
+[2024-05-23T16:08:39.325Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:08:39.329Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:08:39.331Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:08:39.393Z] error: <httpProxy> Error calling https://hub.ensg-sdi.docker/...
+[2024-05-23T16:08:39.393Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:08:39.395Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:08:39.395Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:08:41.878Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:08:41.878Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:08:43.419Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:08:43.420Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:08:43.423Z] error: <httpProxy> Error calling https://hub.ensg-sdi.docker/...
+[2024-05-23T16:08:43.423Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:08:43.426Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:08:43.427Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:08:45.936Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:08:45.936Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:08:46.914Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:08:46.915Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:08:48.448Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:08:48.449Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:08:48.452Z] error: <httpProxy> Error calling https://hub.ensg-sdi.docker/...
+[2024-05-23T16:08:48.452Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:08:49.414Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:08:49.415Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:08:50.956Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:08:50.956Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:08:51.959Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:08:51.960Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:08:53.493Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:08:53.494Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:09:15.046Z] error: <httpProxy> Error calling https://hub.ensg-sdi.docker/...
+[2024-05-23T16:09:15.047Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:09:15.057Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:09:15.058Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:09:15.061Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:09:15.062Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:09:15.069Z] error: <httpProxy> Error calling https://hub.ensg-sdi.docker/...
+[2024-05-23T16:09:15.069Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:09:17.589Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:09:17.589Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:09:17.590Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:09:17.590Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:09:20.095Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:09:20.096Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:09:20.101Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:09:20.101Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:15:36.406Z] error: <httpProxy> Error calling https://hub.ensg-sdi.docker/...
+[2024-05-23T16:15:36.407Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:15:36.488Z] error: <httpProxy> Error calling https://hub.ensg-sdi.docker/...
+[2024-05-23T16:15:36.496Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:15:36.503Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:15:36.503Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:15:38.984Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:15:38.988Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:15:38.993Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:15:38.994Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:15:40.530Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:15:40.531Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:15:40.534Z] error: <httpProxy> Error calling https://hub.ensg-sdi.docker/...
+[2024-05-23T16:15:40.535Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:15:43.038Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:15:43.039Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:15:43.997Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:15:43.998Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:15:45.541Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:15:45.542Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:15:45.546Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:15:45.546Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:15:46.500Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:15:46.501Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:15:48.072Z] error: <httpProxy> Error calling https://hub.ensg-sdi.docker/...
+[2024-05-23T16:15:48.083Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:15:50.589Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:15:50.591Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:15:50.595Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:15:50.596Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:15:51.602Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:15:51.606Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:19:14.137Z] error: <httpProxy> Error calling https://hub.ensg-sdi.docker/...
+[2024-05-23T16:19:14.139Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:19:14.178Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:19:14.180Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:19:14.264Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:19:14.264Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:19:14.273Z] error: <httpProxy> Error calling https://hub.ensg-sdi.docker/...
+[2024-05-23T16:19:14.274Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:19:16.751Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:19:16.752Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:19:16.755Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:19:16.760Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:19:18.230Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:19:18.232Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:19:18.241Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:19:18.241Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:19:25.862Z] error: <httpProxy> Error calling https://hub.ensg-sdi.docker/...
+[2024-05-23T16:19:25.863Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:19:25.882Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:19:25.882Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:19:25.890Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:19:25.891Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:19:25.905Z] error: <httpProxy> Error calling https://hub.ensg-sdi.docker/...
+[2024-05-23T16:19:25.905Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:19:28.385Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:19:28.386Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:19:28.394Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:19:28.395Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:19:29.960Z] error: <httpProxy> Error calling https://ensg-sdi.docker/...
+[2024-05-23T16:19:29.961Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
+[2024-05-23T16:19:30.900Z] error: <httpProxy> Error calling https://api.ensg-sdi.docker/...
+[2024-05-23T16:19:30.900Z] error: <httpProxy> [
+  500,
+  Error: connect ECONNREFUSED 172.24.0.2:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+    errno: -111,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '172.24.0.2',
+    port: 443
+  }
+]
